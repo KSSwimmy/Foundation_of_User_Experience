@@ -176,5 +176,6 @@ You now understand how products are developed and the role UX designers play in 
 
 Doors with this kind of poor user experience are called Norman doors. Don Norman, who invented the term UX? In his book, "The Design of Everyday Things," he first describes this phenomenon, and he explains how a user's experience isn't always considered in a product's design.
 
-#### Good and Poor Design Comparison Assignment
+#### Good and Poor Design Comparison Assignment 
+Sunday, March 14th 2021
 
