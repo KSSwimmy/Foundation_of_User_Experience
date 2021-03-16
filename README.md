@@ -187,3 +187,16 @@ Responsibilities of Entry-Level UX Designers
 - Wireframing
 - Prototyping
 - Creating information architecture 
+
+
+#### Specialists, Generalists, and T-shaped Designers
+
+
+##### Generalist 
+A generalist is a UX designer with a broad number of responsibilities. Most UX designers begin their careers this way, doing various tasks. For example, you might do a bit of interaction design work, a bit of visual design work, and more. One benefit of being a generalist is that you get to try out roles and find a specialty that you're passionate about. Generalist UX designers are common at smaller companies with fewer employees, as these companies don't have big design departments. You might have to wear many hats.
+
+##### Specialist
+A specialist dives deep into one particular UX design role, like interaction, visual, or motion design. Specialists usually work at large companies where the organization can afford to have a big team of UX designers.
+
+##### T-shaped
+A T-shaped designer specializes in one kind of UX design and has a breadth of knowledge in other areas. This is called a T-shaped designer because your skills look like an uppercase T. The vertical line of the T is the kind of UX design you specialize in, like visual design. The horizontal line across the top of the T includes your complementary skills. These skills might come from other fields, like interaction design, that crossover with your specialties or soft skills that help you work more effectively. Becoming a specialist or generalist isn't always a conscious choice.
