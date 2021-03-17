@@ -200,3 +200,5 @@ A specialist dives deep into one particular UX design role, like interaction, vi
 
 ##### T-shaped
 A T-shaped designer specializes in one kind of UX design and has a breadth of knowledge in other areas. This is called a T-shaped designer because your skills look like an uppercase T. The vertical line of the T is the kind of UX design you specialize in, like visual design. The horizontal line across the top of the T includes your complementary skills. These skills might come from other fields, like interaction design, that crossover with your specialties or soft skills that help you work more effectively. Becoming a specialist or generalist isn't always a conscious choice.
+
+I have coding, leadership, artistic, and graphic design skills. My passion is within all of these skills. I love helping others to also reach their goals or their full potential. 
