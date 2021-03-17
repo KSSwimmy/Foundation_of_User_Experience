@@ -149,3 +149,19 @@ https://design.google/library/designing-global-accessibility-part-iii/
 
 ### The Importance of Equity-Focused Design
 
+**Equity-focused design** means thinking through all the aspects of a designed product and making sure the product is both accessible and fair to all genders, races, and abilities.
+
+Plus, the designs need to specifically consider underrepresented and excluded groups.
+
+
+---
+
+### Self-Reflection Assignment: Examine personal experiences of exclusion 
+
+> Write about your own experiences with exclusion or times when you have felt marginalized, left out, or considered less important than others for any reason. As you reflect upon your own experiences, you may find your memory in an interaction with another individual, a group setting, or in a moment when you did not see yourself reflected in the media. How have these experiences affected you personally or at work? 
+
+***Answer***
+I have a lot of experiences that I can recall, but one that stands out in particular dealt with the lack of representation in Disney princesses growing up. Now, in the present day is a beautiful time to be alive, because productions are bringing in princesses from all walks of life and I most applaud them for that.
+
+---
+
