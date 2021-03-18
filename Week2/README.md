@@ -219,4 +219,42 @@ https://design.google/library/connectivity-culture-and-credit/
 
 What are the advantages of using design tools? First, tools allow designers to prototype ideas and iterate on them. Second, tools make it easier for designers to test their prototypes. And third, design tools make it possible for multiple teams to work on the same product.
 
+---
+
+### Get to know Platforms 
+
+
+##### Platform
+A platform is the medium that users experience your product on, such as desktop, mobile web, mobile apps, tablets, wearables, TVs, smart displays, and more.
+
+##### Brand Identity 
+In addition to having a consistent user experience across platforms, it's also important to have a consistent brand identity. In this case, the brand identity refers to the visual appearance and voice of a company.
+
+---
+### Design for Different Platforms
+
+
+There's a big difference in the amount of time users spend on mobile phones compared to desktop computers. An average mobile session is 72 seconds, while the average desktop session is 150 seconds, more than twice as long.
+
+##### Responsive Web Design
+Responsive web design allows a website to change automatically depending on the size of the device.
+
+First, let's talk about responsiveness. In the past, most mobile websites were a mini version of the desktop site, which often made the mobile websites difficult to use.
+
+##### Best Practices When Designing for Mobile User Experiences
+
+First, call-to-action buttons should be placed front and center, allowing the user to easily complete the desired task, like joining an email list or adding an item to their shopping cart. 
+
+Second, navigation menus should be short and simple.
+
+Third, use gestures that users already do, like tapping and swiping. Gestures should be intuitive and familiar to users.
+
+Fourth, design for both directions a phone might be held. We need to consider the vertical portrait view of a mobile phone and the horizontal landscape view. We want users to have an effective experience no matter how they hold their phone.
+
+Fifth, reduce visual clutter. Mobile phones have smaller screen sizes, so it's important to keep the visual experience simple.
+
+Fifth, reduce visual clutter. Mobile phones have smaller screen sizes, so it's important to keep the visual experience simple.
+
+---
+
 
