@@ -165,3 +165,54 @@ I have a lot of experiences that I can recall, but one that stands out in partic
 
 ---
 
+### Self-Reflection: Consider Examples of Equitable Design
+
+> Describe an example of equitable design in an app, website, or product that you’ve used. Or, share an example of a design that was not equitable. How did these designs impact your experience with the product?
+
+***Answer***
+
+
+---
+
+### Design for the Next Billion Users
+
+Next Billion Users or NBU is design for the billions of people who will be exposed to the internet who haven't been exposed before. 
+
+##### The designer's issue list 
+
+- Cost - The first big issue is cost. People might not be able to afford expensive phones with big screens and lots of storage. 
+
+For example, people with fewer resources tend to buy less expensive devices with low RAM and limited storage. When a phone has low RAM, it means that the phone might load webpages more slowly and people might have problems trying to download files.
+
+- Connectivity - Users might not have constant or unlimited access to the Internet. A lot of our Next Billion Users don't have continuous access to the internet. This might be because the data they have purchased has run out or because their network coverage is inconsistent or sporadic. 
+
+UX designers should try to find ways to make the offline experience as rich as the online experience. For example, giving users the ability to load video offline and making sure that feature and experience is well-designed.
+
+- Digital literacy is also a crucial issue. People might not be familiar with certain design patterns, calls to action, or icons that we take for granted. 
+
+It's important to mention that your users might not know how to use a phone, download an app, or set up an account. Without clear guidance, they might only use the part of the app that they're already familiar with, or worse, they might stop using the app all together.
+
+- Literacy - Some users aren't able to read. 
+
+Some users aren't able to read or type, and others might want to switch languages on their device depending on what they're trying to accomplish. For example, a user might want to read in Hindi but type using the English keyboard.
+
+##### Resources
+
+***Design for Offline***
+https://design.google/library/offline-design/
+
+***Offline states***
+https://material.io/design/communication/offline-states.html#offline-settings
+
+***The Making of YouTube Go***
+https://design.google/library/making-youtube-go/
+
+***Connectivity, Culture, and Credit***
+*Nine ways designers can be more empathic and effective when creating products for emerging market*
+https://design.google/library/connectivity-culture-and-credit/
+
+>One important thing to keep in mind when designing for the Next Billion Users is the rising use of mobile devices in emerging markets, which is changing how people use the internet. For example, a first-time internet user in rural India has very different needs and wants than a techie in Los Angeles. To put this into practice for UX design, check out this article about how designers can be more empathetic and effective when creating products for emerging markets.
+https://design.google/library/connectivity-culture-and-credit/
+
+---
+
