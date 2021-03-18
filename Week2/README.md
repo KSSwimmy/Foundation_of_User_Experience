@@ -291,3 +291,42 @@ WebMD is a healthcare website where users can learn about the symptoms, diagnosi
 Airbnb is an online rental platform where users can list their own space to rent or book a stay in someone else’s space. Think of Airbnb like a hotel, but you stay in actual homes, instead of a commercial building. The Airbnb user experience on a desktop computer is straightforward and similar to other rental sites, where you can filter your search based on your needs. The mobile app seamlessly integrates these same features and allows for continuity throughout the booking process. You can even get Airbnb notifications on your smartwatch, which is really handy as you’re traveling to your destination. 
 
 ---
+
+### Assistive Technology 
+
+The term assistive technology, or AT for short, is used to describe any products, equipment, and systems that enhance learning, working, and daily living for people with disabilities.
+
+##### Kinds of Assistive Technologies
+
+- Color modification
+- Voice control 
+- Screen readers
+- Alternative text 
+
+**Color modification**, like high contrast mode or dark mode on a device, increases the contrast of colors on a screen.
+
+High contrast makes the interface easier to see for people with low vision.
+
+Color modification also helps anyone who might experience eye strain when viewing screens in the dark or midday, when the sun is creating an intense glare.
+
+**Voice Control and Switch devices**, both of these help people with limited dexterity and can serve as an alternative to a keyboard or mouse. Voice control allows users to navigate and interact with the buttons and screens on their devices using only their voice.
+
+##### Switch  
+An assistive technology device that replaces the need to use a computer keyboard or a mouse.
+
+There are a lot of different kinds of switch devices, but they all help people with limited motor ability use technology more easily. 
+
+**Screen readers** are one of the most common assistive technologies for people with limited vision.
+
+The software works on mobile and web devices and reads out loud any on screen text.
+
+Screen readers also read any interactive elements, like buttons, along with non visible text, like the button names, and any alternative text for images.
+
+**Alternative text**, or alt text, helps translate a visual user interface into a tech space user interface.
+
+It essentially uses words to describe any meaningful image for someone who isn't able to see the image.
+
+Alt text is also super helpful for those with low bandwidth connections, too. If your device is unable to maintain a connection to the internet, it may struggle to load a big file or image. Alt text is useful for context when an image fails to load.
+
+---
+
