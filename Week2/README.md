@@ -215,4 +215,8 @@ https://design.google/library/connectivity-culture-and-credit/
 https://design.google/library/connectivity-culture-and-credit/
 
 ---
+### The Advantages of UX Design Tools
+
+What are the advantages of using design tools? First, tools allow designers to prototype ideas and iterate on them. Second, tools make it easier for designers to test their prototypes. And third, design tools make it possible for multiple teams to work on the same product.
+
 
