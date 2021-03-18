@@ -171,6 +171,7 @@ I have a lot of experiences that I can recall, but one that stands out in partic
 
 ***Answer***
 
+Google's search engine homepage is the most equitable of all webpages. The layout is simple, inclusive, and straight to the point. There's a simple text box there for people to type into to research whatever they desire. There on the homepage are complementary Google doodles about what's happening or what happened on that particular day. Which allow the users to educate themselves about what doodle is pertaining to once clicked. 
 
 ---
 
