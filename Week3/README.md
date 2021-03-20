@@ -53,6 +53,49 @@ You reach the final phase: testing. Now it's time to put your prototype in front
 - Decide on the most viable solution 
 - Create a workable prototype 
 - Test that prototype with actual users. 
+
 ---
 
+### Benefits of Design Sprints 
 
+##### Benefits of Design Sprints 
+- It's all about the user 
+- Value every person in the room 
+- The best ideas rise to the top 
+- Time to focus 
+- Lowers risks
+
+---
+
+### Plan Design Sprints
+
+- User Research 
+- Call in the Experts 
+- Find the right space 
+- Gather supplies 
+- Establish sprint rules 
+- Plan introductions 
+- Post-sprint planning 
+
+First up, **user research**. If you're lucky enough to have a dedicated researcher on your team, they can own this step. 
+
+Next, it's time to **call in the experts**. If you're planning the sprint, it's up to you to schedule short talks with colleagues or industry experts. You'll listen to these info-packed talks during the understand phase of the sprint.
+
+Step 3: **Find the right space**. It's important to ensure that the space allows all employees equal opportunities to perform their job. Let's talk about a few things you should look for. Whiteboards to capture your ideas or hang sticky notes, acoustics so participants can hear each other easily, accommodations for anyone who needs them, and comfortable furniture that you can move around easily. 
+
+Once you've found the right space, it's time to **gather supplies**. If you're planning the design sprint, it's your job to make sure everyone has what they need to participate, kind of like a teacher handing out classroom supplies. Some essentials include markers, sticky notes, and a lot of snacks and water.
+
+On to Step 5: **Establish the rules of the sprint**. If you want this to be a gadgetless, distraction-free zone, now is the time to say so. Figuring out the ground rules in advance sets the tone for the sprint, gets everyone on the same page, and helps your team stay focused. 
+
+Step 6 is **planning introductions**. This can be pretty important since sprints involve cross-functional teams that may have never met before. We all know icebreakers can be a little cheesy, but they're still a great way to help your team get comfortable with each other. 
+
+the final step: **post-sprint planning**. That means thinking about what will happen after the sprint wraps up, like how your team might use what you've learned to achieve other goals. To do this, you need documentation. Make sure you enlist a few people to help document the design sprint by taking pictures, collecting sticky notes, and jotting down ideas.
+
+
+##### Resources 
+Google Design Sprint Kit 
+https://designsprintkit.withgoogle.com/resources/tools
+
+>**Other Design Sprint Templates** 
+>If you want to bring your design sprint planning beyond a document, try a template tool like this one from MURAL. With a template tool, you can customize your brief to fit your team’s needs, integrate your brief with the tools your team already uses, and create materials that are well-designed and ready to share with clients. 
+https://www.mural.co/templates/design-sprint-kit
