@@ -104,6 +104,16 @@ https://www.mural.co/templates/design-sprint-kit
 
 ### An Entry-Level Designer's Role in a Sprint 
 
+The first day is the **understand phase**, where you'll get a clear picture of the design challenge. There will be plenty of short talks by experts that are designed to inspire you. So, make note of any thoughts you have.
+
+Phase 2 is the **ideate phase**. The sprint master will guide the team through brainstorming activities to spark creativity and generate tons of possible solutions to the design challenge. Your main focus is coming up with ideas and putting them out there.
+
+Welcome to phase 3, the **decide phase**. Your team will decide on the solution with the greatest chance of success. As a newbie UX designer, you'll get involved in every stage of the decision-making process. When potential solutions fight it out, you'll vote for the one that has the most potential. As you might remember, at this point, you also need to start planning ahead for testing. 
+
+**Prototype phase** 4 is all about creating a prototype of your product. As an entry level UX designer, you'll be actively involved in creating a solid prototype for users to try out. You'll ask questions, offer ideas, and review the completed prototype.
+
+The **test phase** is the final phase of the process, where you put your prototype to the test. As a newbie designer, you might be asked to collect user feedback by observing and interviewing users. This feedback helps the team know what to revise before bringing the product to market.
+
 ##### Resources
 
 > You’re getting the hang of all things design sprints!As you continue to explore, you might be curious to learn more about an entry-level UX designer’s role in a sprint. We’ve got the inside scoop for you! Check out this post from the INKONIQ BLOG about how a design sprint works at Google and this article on Medium about what one UX designer learned from their very first design sprint.
