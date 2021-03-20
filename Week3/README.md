@@ -99,3 +99,17 @@ https://designsprintkit.withgoogle.com/resources/tools
 >**Other Design Sprint Templates** 
 >If you want to bring your design sprint planning beyond a document, try a template tool like this one from MURAL. With a template tool, you can customize your brief to fit your team’s needs, integrate your brief with the tools your team already uses, and create materials that are well-designed and ready to share with clients. 
 https://www.mural.co/templates/design-sprint-kit
+
+---
+
+### An Entry-Level Designer's Role in a Sprint 
+
+##### Resources
+
+> You’re getting the hang of all things design sprints!As you continue to explore, you might be curious to learn more about an entry-level UX designer’s role in a sprint. We’ve got the inside scoop for you! Check out this post from the INKONIQ BLOG about how a design sprint works at Google and this article on Medium about what one UX designer learned from their very first design sprint.
+
+##### Inside a Design Sprint Workshop 
+https://medium.com/inkoniq-blog/inside-a-design-sprint-workshop-at-google-3950b1654f2
+
+---
+
