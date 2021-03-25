@@ -210,6 +210,49 @@ Create a channel and post video demonstrations of an application or other UX pro
 
 ---
 
+### Use writing best practices in a portfolio
 
+##### Tips for writing in your portfolio 
+
+- Use as few words as possible 
+- Avoid complicated language 
+- Avoid jargon 
+- Include keywords
+- Inject personality 
+- Find a trusted editor 
+
+---
+### Activity Exemplar: Writing concisely
+
+In this assessment, we’ll explain how we edited both David’s “Introduction” and “About Me” section for content and style. We’ll also check those edits against the guidelines in the “What to Include in Your Response” section.
+
+##### Introduction Assessment
+
+- David included what he does, (UX design) and established his personal brand (that he specializes in Usability and works in a museum). 
+- He also mentions readers can learn more about how his museum job informs his UX background in his hyperlinked “About Me” section. 
+- He added a point of contact.
+- The revised Introduction shines a spotlight on the most important aspects of David’s professional experience.
+- The revised version contains keywords like “UX designer” and “Usability.”
+- David made sure the revised version was free of misspellings and grammatical errors,  like the misspelled name “Renior” (“Renoir”). 
+
+##### About me assessment 
+
+- David’s revised story had a beginning, in which he informed readers of his job; a middle, in which he described how he started thinking like a UX designer; and an end, in which we drew a clear line from that job to his new UX design career.
+- The revised section referenced the Usability projects he wants hiring managers to look at, and provides a hyperlink to them. 
+- Keywords such as “UX Design” and the descriptor terms “physical” and “virtual” were added into the revised version. 
+- The revised section established David as a certified UX Designer and allowed potential employers and recruiters to more easily connect with David’s unique career path.
+
+Now compare the exemplar above to your own revised version. Self assess what you’ve done using the list of questions below. If you have more than three items that you haven't done, you should re-edit the exercise to make sure you cover all criteria. 
+
+##### Ask yourself:
+
+1. Did you use as few words as possible?
+2. Did you avoid complicated language?
+3. Did you avoid jargon?
+4. Did you include keywords?
+5. Did you inject personality?
+6. Did you edit carefully?
+7. Did you read your writing out loud?
+8. Did you structure the information clearly and concisely, highlighting the most important part of the author's story?
 
 
