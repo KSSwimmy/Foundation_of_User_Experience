@@ -77,5 +77,37 @@ Being authentic to who you are means you are less likely to do and say things th
 
 ---
 
+### Activity: Create your personal brand and About Me page for your portfolio
+
+Work on this Friday. 
+
+Examples
+
+##### https://www.nicolaspellegrino.com/about
+>I'm a new grad studying User experience design who never out grew his healthy obsession with Mario Kart. I find myself constantly listening to music (87,330 minutes in 2018 to be exact) and like anyone else my age I'm a self proclaimed foodie. My current home is Austin, Texas but I mostly grew up in the small town of Acworth, Georgia north of Atlanta. While being fascinated with all aspects of User Experience design, I specialize in ideation, storytelling and visual design. I love diving into why and how people use things, and furthering those experiences to make them memorable.
+
+
+###### https://www.shabnamkashani.com/kashani-about
+>I am currently an interaction designer at Google working on inclusive design. During my time as a Googler, I’ve worked on Accessibility and Google Assistant.
+>
+>The world is constantly evolving thanks to designers centering their process around the user. Creatives design an experience through a series of touch-points that form the framework to have a meaningful interaction. It starts with understanding what the user needs, and ideating an innovative solution to fulfill it.
+
+##### https://danegalbraith.com/about
+>Hey there, I’m Dane! 👋
+>I’m a Visual Designer currently at Google in NYC. 
+>From film photography to mobile and web design, I’ve always admired how thoughtful design has the power to change our world. Whether it’s through simplifying interactions or giving users a moment to view something through a new lens, I love creating high-impact solutions that make people happy. At any scale.
+>
+>I’m always curious, and I try to tackle projects that push me outside of my comfort zone and allow me to grow. Working with talented creatives in different backgrounds is an endless source of inspiration for me, and it helps me see the world differently. Throughout my undergrad, I’ve found myself in language learning, motion media, interface design, web design + development, green UX, and smarter education.
+>
+>Feel free to reach out whenever you’d like! Let’s make something great. 
+>
+> Dane :)
+>danegalbraith@gmail.com
+
+---
+
+
+
+
 
 
