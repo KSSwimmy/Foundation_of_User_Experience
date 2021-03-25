@@ -105,8 +105,110 @@ Examples
 >danegalbraith@gmail.com
 
 ---
+### Behance Profile Best practices
 
 
+Put your best work front-and-center
+
+Behance is a digital artist’s portfolio, which means your work is your resume. It’s a good idea to put your best work front-and-center, so it’s the first thing people take away when they go to your profile. 
+
+Make sure your bio offers a clear way to contact you
+
+Behance offers messaging within its platform, making communication quick and easy. But it’s still a good idea to link to all your other professional online profiles (e.g., your professional website, Instagram Business Account, and LinkedIn) so you can grow your follower base and strengthen your connections.
+
+Keep your gallery clean
+
+People scan websites instead of reading them. Because of this, it’s a good idea to keep your Behance page clean and simple. The best way to give people a clear picture of your work is to only showcase a few projects. 
+
+Keep your bio short
+
+A Behance bio is a professional introduction. Keep it short and only include information that you think a professional connection should know. 
+
+Step 4: Start building your online presence on Behance
+Once your profile is complete, you’re ready to connect with other people! Let’s go over some best practices to consider as you build your online presence on Behance.
+
+Best Practices
+Follow artists whose work you like 
+
+Behance lets you “follow” other artists to stay up to date on their work. Browse your curated homepage and follow artists whose work you enjoy. This lets them know you exist, and they may return the favor by following you back!
+
+Like and appreciate other people’s work 
+
+Behance lets you signal that you like other people’s work with “appreciations,” which are similar to Facebook likes or Reddit upvotes. You can also comment on other people’s work. Participate authentically, like and comment on other people’s work that truly interests you and start building an online community. 
+
+Make connections with people you know and don’t know
+
+You can use Behance to connect with people in the UX design industry. Send them messages that say you want to learn more about their company or their work.
+
+You can send a message to someone on Behance by clicking the Message button on the left side of their profile. 
+
+If you want to work at a specific company, consider connecting with employees at that company with a message. You can ask if they’re willing to have a 15-minute conversation about their day-to-day job and how they like working at the company. 
+
+Some tips:
+
+Reserve these requests for when you are actively engaged in your job search.
+Be respectful of the employee’s time by coming prepared with specific discussion topics and questions you’d like to ask.
+Resist the urge to ask for a job. This conversation should be informational in nature. 
+This is a great way to get your foot in the door and better understand what employers are seeking.
+
+Template for reaching out to ***someone you know*** on Behance
+
+If you’re sending a Behance message to someone you know, remind them of how you know them and explain why you’re reaching out. A good template for reaching out to someone you know is:
+
+>Hi [connection’s name], 
+>
+>It’s nice to connect with you on Behance. [It’s a good idea to then explain your relationship to the person here—whether you went to middle school together, are part of the same religious community, or know each other in another way.]
+>
+ >I’m starting a career as a UX designer, and I really like your work. [It’s a good idea to reference specific projects they've done that you like, and why.] 
+>
+>I want to learn more about your role at [company name], and I was wondering if I could discuss with you at some point? 
+>
+>Sincerely,
+>
+>[Your Name]
+>
+
+Template for reaching out to ***someone you don't know*** on Behance
+
+When you send a Behance message to a person you don’t know, it’s important to be polite, honest, and direct with them. Let’s say you’re a UX designer reaching out to an employee of a company you want to work at. A good template for reaching out to someone you don’t know is:
+
+>Hi [connection’s name], 
+>
+>My name is [your name.] I’ve just started my career as a UX designer, and I really like your company’s work. [It’s a good idea to reference specific projects the company’s done that you like, and why.] 
+>
+>I want to learn more about your role at [company name], and I was wondering if I could discuss with you at some point? 
+>
+>Sincerely,
+>
+>[Your Name]
+
+Link your website to your Behance profile
+
+When you're ready, you'll want to make sure you include a link to your Behance profile/account/portfolio in your website portfolio. You can add a link to your website from your Behance profile by following these steps.
+
+Share your work far and wide
+
+Behance encourages you to share your portfolio on lots of other platforms. It’s a good idea to share your work on the platforms they suggest such as, LinkedIn, Twitter, Facebook, YouTube, and others. 
+
+Here are some ways to make the most of each platform:
+
+LinkedIn
+
+LinkedIn is well-suited for sharing professional updates and links to portfolios. Find relevant groups and join the conversation. Post and share resources, along with updates about projects you are working on. Ask for feedback and interact with others in the UX industry.
+
+Twitter
+
+Start a thread asking for feedback on a design project you’re working on. Another option is to start a thread presenting your portfolio, sharing that you are open for work.
+
+Facebook
+
+Join UX-related groups, participate in the conversations, share resources and provide feedback to others. Share your portfolio for feedback and when appropriate, indicate that you are open for work. Be sure to understand each community's guidelines and rules before you start posting.
+
+YouTube
+
+Create a channel and post video demonstrations of an application or other UX project you’re working on. Link to your Behance portfolio in your profile.
+
+---
 
 
 
